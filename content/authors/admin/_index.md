@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Hi all, I am a recent graduate at the University of California, Irvine with a bachelors in Computer Science.
+Hi all, I am a recent graduate from University of California, Irvine with a bachelors in Computer Science.
 
 Avid tech enthusiast and mild tinkerer. 
 
