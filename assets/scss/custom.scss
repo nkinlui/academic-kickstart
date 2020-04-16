@@ -1,18 +1,21 @@
-
-
-h1,h2,h3,h4{
+h1,
+h2,
+h3 {
   color: #016ca4;
-  
- }
- 
+}
 
- .exp-title
- {
+.exp-title {
+  color: #016ca4 !important;
+}
+
+.exp-company {
+  color: #016ca4 !important;
+}
+
+.text-muted {
   color: #016ca4;
- }
- 
- card-title{
-   color: #016ca4;
- }
- 
-  
+}
+
+card-title {
+  color: #016ca4 !important;
+}
