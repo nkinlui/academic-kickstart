@@ -65,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Hi all, 
-
 I am a recent graduate from University of California, Irvine with a bachelors in Computer Science. Avid tech enthusiast and mild tinkerer. Former intern at the ITS Customer Billing & Support Services Reports Group at the Los Angeles Department of Water and Power. Currently looking for opportunities to gain experience and contribute in the workforce. 
