@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Programming
-- Databases
+- Automation
 - Information Retrieval
 
 education:
