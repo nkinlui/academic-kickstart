@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Recent graduate from University of California, Irvine with a bachelors in Computer Science. Avid tech enthusiast and mild tinkerer.
 
 interests:
 - Programming

@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://github.com/nkinlui/pcpartprices
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: PCPartPrices
   focal_point: Smart
 ---
