@@ -1,6 +1,6 @@
 ---
 title: PCPartPrices
-summary: A windows application that displays your pc specs along with an estimated price for each part.
+summary: A Windows application that displays your pc specs along with an estimated price for each part.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
