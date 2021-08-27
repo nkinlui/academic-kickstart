@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Systems Analyst"
+  company = "City of Los Angeles, Information Technology Agency"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2021-08-02"
+  date_end = ""
+  description = """
+
+  *  Analyze, troubleshoot, and resolve software and hardware issues remotely and on site.
+  * Use Microsoft WDS & MDT to image workstations through USB and PXE for consistent systems.
+  * Utilize Google Workspace suite to better collaborate, communicate, and structure workflow.
+  * Implement software such as Connect2LACity on workstations to facilitate remote productivity.
+  * Manage and document user incidents through ServiceNow for proper information flow.
+  * Employ RSAT to use tools such as Windows Active Directory & Group Policies to enforce department computer hierarchies to minimize cybersecurity risk through systems hardening.
+  * Support elected official meetings to guarantee smooth operation.
+  * Maintain hardware inventory through asset management in ServiceNow for record & liability.
+  * Safeguard enterprise networks by ensuring hardware are running the latest security patches.
+  * Developed .NET Windows GUI application to automatically and efficiently redact CSV zoom logs to be CPRA compliant formatted PDFs
+  * Learn, digest, and perform a variety of procedures to best accomplish assigned tasks."""
+
+[[experience]]
   title = "Student Professional Worker"
   company = "Los Angeles Department of Water and Power"
   company_url = ""
@@ -58,4 +79,5 @@ date_format = "Jan 2006"
 
 - Created a new website that would bring down operational costs to under 10% of the original’s.
 - Compiled and edited video content to increase brand awareness and to connect clients with the brokers"""
+
 +++
