@@ -65,4 +65,5 @@ user_groups:
 - Visitors
 ---
 
-I am a recent graduate from University of California, Irvine with a bachelors in Computer Science. Avid tech enthusiast and mild tinkerer. Current Systems Analyst at ITA Customer Engagement Bureau Council Support Team. Former intern at the ITS Customer Billing & System Support Reports Group at the Los Angeles Department of Water and Power. Always looking for opportunities to gain experience and contribute in the workforce. 
+I am a recent graduate from University of California, Irvine with a bachelors in Computer Science. Avid tech enthusiast and mild tinkerer. Current Systems Analyst II at LADWP ITS Enterprise Cybersecurity Services Governance Team.
+

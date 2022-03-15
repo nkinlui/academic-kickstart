@@ -18,12 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Systems Analyst II"
+  company = "Los Angeles Department of Water and Power"
+  company_url = ""
+  location = "Los Angeles, California"
+  date_start = "2021-10-02"
+  date_end = ""
+  description = """
+
+  *  Assist in developing, updating, and reviewing cybersecurity policies, procedures, and guidelines.
+  *  Assist in developing, executing, and managing cybersecurity awareness and training programs.
+  *  Created application with Python that interacts with Cornerstone OAuth and REST APIs to efficiently update Active Directory users & groups for Cyber Awareness Training enforcement. Along with SMTP notifications, these steps culminate into a robust automated process with 85% reduced execution time vs manual enforcement procedures. Makes use of RSA-2048 and AES-128 hybrid encryption scheme for OAuth transaction. 
+  *  Aggregate data from Azure DevOps OData endpoints into formatted reports using Python for greater insight into User Acceptance Testing analytics.
+  *  Developed Python script to generate Active Directory reports to verify inactive accounts with past due last logins.
+  *  Improved division contact information documentation update process using Excel mail merge, reducing time needed to change fields and export updates while increasing data visibility and flexibility."""
+
+[[experience]]
   title = "Systems Analyst"
   company = "City of Los Angeles, Information Technology Agency"
   company_url = ""
   location = "Los Angeles, California"
   date_start = "2021-08-02"
-  date_end = ""
+  date_end = "2021-10-02"
   description = """
 
   *  Analyze, troubleshoot, and resolve software and hardware issues remotely and on site.
