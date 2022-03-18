@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: file-pdf
   icon_pack: far
-  link: files/Norton_Lui_Resume_2020_nophone.pdf
+  link: files/Norton_Lui_Resume_nophone.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
