@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: College Graduate
+role: Systems Analyst II
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: LADWP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
