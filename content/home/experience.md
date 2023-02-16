@@ -28,8 +28,9 @@ date_format = "Jan 2006"
 
   *  Assist in developing, updating, and reviewing cybersecurity policies, procedures, and guidelines.
   *  Assist in developing, executing, and managing cybersecurity awareness and training programs.
-  *  Created application with Python that interacts with Cornerstone OAuth and REST APIs to efficiently update Active Directory users & groups for Cyber Awareness Training enforcement. Along with SMTP notifications, these steps culminate into a robust automated process with 85% reduced execution time vs manual enforcement procedures. Makes use of RSA-2048 and AES-128 hybrid encryption scheme for OAuth transaction. 
+  *  Created application with Python that interacts with Cornerstone OAuth and RESTful APIs to efficiently update past due Active Directory users & groups for Cyber Awareness Training enforcement with SMTP notifications. Robust automated process with 85% reduced execution time vs manual enforcement procedures, instrumental in achieving a 98% training completion rate for over 11000 department users.  Makes use of RSA-2048 and AES-128 hybrid encryption scheme for OAuth transaction. 
   *  Aggregate data from Azure DevOps OData endpoints into formatted reports using Python for greater insight into User Acceptance Testing analytics.
+  *  Collaborated with IT Human Resource Management System team to create streamlined process to manage thousands of non-employee accounts in Cornerstone with Active Directory data via Python, CSVs, and SFTP.
   *  Developed Python script to generate Active Directory reports to verify inactive accounts with past due last logins.
   *  Improved division contact information documentation update process using Excel mail merge, reducing time needed to change fields and export updates while increasing data visibility and flexibility."""
 
